@@ -1,11 +1,38 @@
-# RAJ-FOOD-INDUSTRIES_DevelopmentCode
-© 2026 Raj Food Industries. All Rights Reserved.
+# RAJ-FOOD-INDUSTRIES_DevelopmentCode  
+## Official Website
+
+© 2026 **Raj Food Industries**. All Rights Reserved.  
 Unauthorized copying prohibited.
 
+---
 
-⚠️ This is a private proprietary project.
-Unauthorized use, copying, or modification is strictly prohibited.
+⚠️ **Private Proprietary Project**  
+Unauthorized use, copying, modification, or distribution of this code is strictly prohibited.
 
+---
 
+## 📌 Overview
 
-This repository contains the complete frontend and backend source code for the official website of Raj Food Industries.  The project is designed to digitally represent the factory, its products, operations, and business information with a secure, scalable, and modern web architecture.
+This repository contains the complete **frontend and backend source code** for the official website of **Raj Food Industries**.
+
+The project is designed to digitally represent the factory, its products, operations, and business information with a **secure, scalable, and modern web architecture**.
+
+---
+
+## 🚀 Features
+
+- Modern, responsive frontend UI  
+- Secure backend APIs  
+- Admin & management workflows  
+- Database integration  
+- Authentication & authorization  
+- Production-ready architecture  
+
+---
+
+## 🏭 Purpose
+
+This codebase is developed **exclusively for Raj Food Industries** and is intended for **internal and official business use only**.
+
+⚠️ **Proprietary Notice**  
+This project is not open source. No part of this repository may be reused, copied, or modified without explicit written permission from Raj Food Industries.
