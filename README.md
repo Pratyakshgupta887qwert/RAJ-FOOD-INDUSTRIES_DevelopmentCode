@@ -1,3 +1,20 @@
+<p align="center">
+  <img 
+    src="https://github.com/Pratyakshgupta887qwert/RAJ-FOOD-INDUSTRIES_DevelopmentCode/blob/main/Screenshot%202026-01-21%20182250.png"
+    width="900"
+    alt="RAJ Food Industries Preview"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github.com/Pratyakshgupta887qwert/RAJ-FOOD-INDUSTRIES_DevelopmentCode/blob/main/Screenshot%202026-01-21%20182141.png"
+    width="900"
+    alt="RAJ Food Industries Preview"
+  />
+</p>
+
+
 # RAJ-FOOD-INDUSTRIES_DevelopmentCode  
 ## Official Website
 
